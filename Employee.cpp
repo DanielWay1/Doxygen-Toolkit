@@ -1,3 +1,12 @@
+/**
+ * @file Employee.cpp
+ * @author Daniel Way
+ * @date 2024-04-18
+ * @brief Implementation of the Employee class functions
+ * 
+ * Where everything is implemented
+ */
+
 #include "Employee.h"
 #include <iostream>
 

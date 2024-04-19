@@ -1,3 +1,12 @@
+/**
+ * @file Supervisor.cpp
+ * @author Daniel Way
+ * @date 2024-04-18
+ * @brief Implementation of the Supervisor class
+ * 
+ * Where all the functions that were defined in Supervisor.h get called
+ */
+
 #include "Supervisor.h"
 #include <iostream>
 

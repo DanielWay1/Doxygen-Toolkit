@@ -1,3 +1,11 @@
+/**
+ * @file main.cpp
+ * @author Daniel Way
+ * @date 2024-04-18
+ * @brief main file that calls everything else
+ * 
+ * Runs the test and calls methods from each class as needed 
+ */
 
 #include <iostream>
 #include "Employee.h"
@@ -6,6 +14,16 @@
 
 using namespace std;
 
+
+/**
+ * Runs the test of the employees
+ *
+ * @param Employee & e 
+ * @pre 
+ * @return void 
+ * @post 
+ * 
+ */
 void runEmployeeTests(Employee & e);
 
 int main() {
